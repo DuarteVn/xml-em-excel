@@ -1,5 +1,7 @@
 # xml-em-excel
 
-import xmltodict
+Imports para funcionamento do sistema: 
+
+import xmltodict 
 import os 
 import pandas as pd 
